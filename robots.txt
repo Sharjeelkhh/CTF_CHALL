@@ -1,3 +1,5 @@
-User-agent: *
-Disallow: /not_the_flag_directory
-# Just a random note here: dont_check_this flag{hidden_in_plain_sight}
+flag{fake_flag_hahahaha}
+
+
+
+V2tWb1MwMVdjRlpYYms1YVZqSk9kbFV3VWs5VVZURkZVVmhrVGxKRlJqTlVWVkpDWkRBeFJWRllaRTVTUlVZelZGVlNRbVF3TVVWUldHUk9Va1ZHZHc9PQ==
